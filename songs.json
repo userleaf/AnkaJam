@@ -1,0 +1,14 @@
+{
+  "songs": [
+    {
+      "title": "Let It Be",
+      "key_idx": 0,
+      "chords": [
+        {"btn": 0, "joy_x": 0, "joy_y": 0, "name": "C Maj"},
+        {"btn": 4, "joy_x": 0, "joy_y": 0, "name": "G Maj"},
+        {"btn": 5, "joy_x": 0, "joy_y": 0, "name": "A Min"},
+        {"btn": 3, "joy_x": 0, "joy_y": 0, "name": "F Maj"}
+      ]
+    }
+  ]
+}
