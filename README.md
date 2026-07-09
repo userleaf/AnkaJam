@@ -108,7 +108,7 @@ Anka-Jam uses a highly optimized physical wiring cluster for easy header solderi
 | **Joystick Click** | Digital In (Pull-Up) | GP13 |
 
 > *(Note: Wire the other side of all buttons and the joystick directly to a common Ground).*
-![Image](SCH_ankajam_1-Sheet_1_2026-07-08.png)
+![Image](SCH_ankajam_1-Sheet_1_2026-07-09.png)
 ---
 
 ## 💻 Software Installation
